@@ -1,7 +1,9 @@
+<div align="center">
 <p align="center">
   <h1 align="center">RGM: A Robust Generalist Matching Model</h1>
 
-[Songyan Zhang](https://scholar.google.com/citations?user=EG6WdEQAAAAJ&hl=zh-CN)<sup>1*</sup>, &nbsp; 
+### [Paper](https://arxiv.org/abs/2310.11755)
+Songyan Zhang<sup>1*</sup>, &nbsp; 
 Xinyu Sun<sup>1*</sup>, &nbsp; 
 [Hao Chen](https://stan-haochen.github.io/)<sup>1</sup>, &nbsp;
 Bo Li<sup>2</sup>, &nbsp;
@@ -9,8 +11,6 @@ Bo Li<sup>2</sup>, &nbsp;
 
 <sup>1</sup>Zhejiang University, China;
 <sup>2</sup>Northwestern Polytechnical University, China
-
-### [Paper](https://arxiv.org/abs/2310.11755)
 
 </div>
 
